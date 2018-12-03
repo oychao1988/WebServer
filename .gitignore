@@ -102,3 +102,10 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+info/static/techbooks/
+info/static/works/
+logs/
+Blogs.sql
+.idea/
+dump.rdb
